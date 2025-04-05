@@ -3,7 +3,7 @@ function $$(selector, context = document) {
 }
 
 let pages = [
-  { url: '', title: 'Home' },
+  { url: '', title: 'Demos Home' },
   { url: 'snap_tutorial/', title: 'Snap Tutorial' },
   // add the rest of your pages here
 
