@@ -10,7 +10,7 @@ body {
          and use the OS’s UI font as the website font
        */
     font: 100%/1.5 system-ui; 
-    max-width: 105ch; /* Set the maximum width of the body */
+    max-width: 150ch; /* Set the maximum width of the body */
     margin-inline: auto;  /* Center the body */
     padding: 10px;  /* Add some padding around the body */
     accent-color: var(--color-accent); /* Set the accent color */
@@ -53,8 +53,13 @@ h1 {
 }
 
 h2 {
-  font-size: 2em;  /* 300% of body font size */
+  font-size: 2em;  /* 200% of body font size */
 }
+
+p {
+  font-size: 1.5em;  /* 150% of body font size */
+}
+
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
