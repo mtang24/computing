@@ -5,6 +5,8 @@ function $$(selector, context = document) {
 let pages = [
   { url: '', title: 'Demos Home' },
   { url: 'snap_tutorial/', title: 'Snap Tutorial' },
+  { url: 'scratch_tutorial/', title: 'Scratch Tutorial' },
+
   // add the rest of your pages here
 
 ];
