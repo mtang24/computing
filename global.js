@@ -4,7 +4,7 @@ function $$(selector, context = document) {
 
 let pages = [
   { url: '', title: 'Demos Home' },
-  { url: 'snap_sequencing_tutorial/', title: 'Sequencing in Snap' },
+  { url: 'snap_tutorial/', title: 'Sequencing in Snap' },
   { url: 'snap_repeats_tutorial/', title: 'Repeats in Snap' },
   { url: 'scratch_repeats_tutorial/', title: 'Repeats in Scratch' },
 
