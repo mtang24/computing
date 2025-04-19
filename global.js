@@ -9,6 +9,7 @@ let pages = [
   { url: 'scratch_repeats_tutorial/', title: 'Repeats in Scratch' },
   { url: 'snap_nestedrepeats_tutorial/', title: 'Nested Repeats in Snap' },
   { url: 'snap_events_tutorial/', title: 'Events in Snap' },
+  { url: 'snap_variables_tutorial/', title: 'Variables in Snap' },
 
   // add the rest of your pages here
 
