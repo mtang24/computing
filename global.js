@@ -10,7 +10,7 @@ let pages = [
   { url: 'snap_nestedrepeats_tutorial/', title: 'Nested Repeats in Snap' },
   { url: 'snap_events_tutorial/', title: 'Events in Snap' },
   { url: 'snap_variables_tutorial/', title: 'Variables in Snap' },
-  { url: 'snap_conditionalrepeats_tutorial/', title: 'Conditional Repeats in Snap' },
+  { url: 'snap_conditional_repeats_tutorial/', title: 'Conditional Repeats in Snap' },
 
   // add the rest of your pages here
 
