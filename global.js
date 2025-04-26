@@ -3,14 +3,16 @@ function $$(selector, context = document) {
 }
 
 let pages = [
-  { url: '', title: 'Demos Home' },
-  { url: 'snap_tutorial/', title: 'Sequencing in Snap' },
-  { url: 'snap_repeats_tutorial/', title: 'Repeats in Snap' },
-  { url: 'scratch_repeats_tutorial/', title: 'Repeats in Scratch' },
-  { url: 'snap_nestedrepeats_tutorial/', title: 'Nested Repeats in Snap' },
-  { url: 'snap_events_tutorial/', title: 'Events in Snap' },
-  { url: 'snap_variables_tutorial/', title: 'Variables in Snap' },
-  { url: 'snap_conditional_repeats_tutorial/', title: 'Conditional Repeats in Snap' },
+  { url: '', title: 'Home' },
+  { url: 'snap_tutorial/', title: 'Sequencing' },
+  { url: 'snap_repeats_tutorial/', title: 'Repeats Part 1' },
+  { url: 'scratch_repeats_tutorial/', title: 'Repeats Part 2' },
+  { url: 'snap_nestedrepeats_tutorial/', title: 'Nested Repeats' },
+  { url: 'snap_events_tutorial/', title: 'Events' },
+  { url: 'snap_variables_tutorial/', title: 'Variables' },
+  { url: 'snap_conditional_repeats_tutorial/', title: 'Conditional Repeats' },
+  { url: 'snap_if_statements_tutorial/', title: 'If Statements' },
+
 
   // add the rest of your pages here
 
