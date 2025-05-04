@@ -12,8 +12,7 @@ let pages = [
   { url: 'snap_variables_tutorial/', title: 'Variables' },
   { url: 'snap_conditional_repeats_tutorial/', title: 'Conditional Repeats' },
   { url: 'snap_if_statements_tutorial/', title: 'If Statements' },
-
-
+  { url: 'snap_nested_if_statements_tutorial/', title: 'Nested If Statements' },
   // add the rest of your pages here
 
 ];
