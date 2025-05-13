@@ -13,6 +13,7 @@ let pages = [
   { url: 'snap_conditional_repeats_tutorial/', title: 'Conditional Repeats' },
   { url: 'snap_if_statements_tutorial/', title: 'If Statements' },
   { url: 'snap_nested_if_statements_tutorial/', title: 'Nested If Statements' },
+  { url: 'snap_compound_conditionals_tutorial/', title: 'Compound Conditionals' },
   // add the rest of your pages here
 
 ];
