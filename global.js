@@ -14,6 +14,9 @@ let pages = [
   { url: 'snap_if_statements_tutorial/', title: 'If Statements' },
   { url: 'snap_nested_if_statements_tutorial/', title: 'Nested If Statements' },
   { url: 'snap_compound_conditionals_tutorial/', title: 'Compound Conditionals' },
+  { url: 'snap_abstractions_tutorial/', title: 'Abstractions' },
+  { url: 'snap_lists_tutorial/', title: 'Lists' },
+
   // add the rest of your pages here
 
 ];
